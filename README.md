@@ -25,7 +25,6 @@ Monitor em **Python** que acompanha a eficiência da montagem de motores e **exp
 | **Streamlit** | Transformar o código Python em um dashboard web, sem precisar de HTML/JavaScript |
 | **Plotly** | Gráficos interativos (barras, linhas, Pareto, velocímetro) |
 | **streamlit-option-menu** | Menu lateral com ícones |
-| **CSS (injetado)** | Visual "Dark Industrial Tech", baseado no guia de estilização |
 
 ---
 
@@ -104,12 +103,6 @@ Ele mantém as bibliotecas do projeto isoladas do resto do computador.
 ```powershell
 python -m venv .venv
 .venv\Scripts\Activate.ps1
-```
-
-**Windows (Prompt de Comando):**
-```cmd
-python -m venv .venv
-.venv\Scripts\activate.bat
 ```
 
 **Linux / macOS:**
