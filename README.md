@@ -9,9 +9,8 @@ Monitor em **Python** que acompanha a eficiência da montagem de motores e **exp
 ## Por que este projeto foi criado
 
 - **Aprender Python na prática**, com um problema real: ler planilhas, calcular indicadores e organizar um programa em módulos.
-- **Entender como a eficiência de uma linha é acompanhada** na indústria (Powertrain = parte do veículo que gera e transmite potência: motor, câmbio e componentes).
+- **Entender como a eficiência de uma linha é acompanhada** na indústria.
 - **Mostrar causa e efeito.** Muitos painéis só mostram que a eficiência caiu. Este mostra o porquê: *a usinagem teve a menor eficiência → a principal causa de parada foi manutenção → a máquina estava com a preventiva atrasada → a primeira ação é cumprir o plano de manutenção.*
-- **Evitar ferramentas pagas ou fechadas** (como o Power BI): tudo é código aberto, gratuito e roda em qualquer computador.
 
 ---
 
