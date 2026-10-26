@@ -145,6 +145,9 @@ Isso cria `dados/planilha_exemplo.xlsx` com três abas (Produção, Paradas e Ma
 python main.py
 ```
 
+## DISPLAY DO MONITOR
+<img width="1918" height="966" alt="Screenshot From 2026-10-25 22-30-37" src="https://github.com/user-attachments/assets/e66199eb-bab7-4ce5-9e88-3280ef1a8e9f" />
+
 Mostra os quatro blocos (eficiência por estação, 3 maiores causas de parada, refugo acima do limite e máquinas com manutenção atrasada) e o diagnóstico de causa e efeito.
 
 **Opção B – Dashboard web**
