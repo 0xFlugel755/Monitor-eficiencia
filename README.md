@@ -1,4 +1,4 @@
-# Monitor de Eficiência – Powertrain
+# Monitor de Eficiência
 
 Monitor em **Python** que acompanha a eficiência da montagem de motores e **explica por que ela cai**, olhando paradas, refugo e manutenção no mesmo lugar. Funciona de duas formas: um **resumo no terminal** e um **dashboard web** (Streamlit), ambos lendo uma planilha Excel.
 
